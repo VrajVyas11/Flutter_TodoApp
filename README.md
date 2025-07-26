@@ -12,7 +12,7 @@ A beautiful todo application built with Flutter featuring modern Material 3 desi
 - ✨ Smooth animations and haptic feedback
 
 ## Screenshots
-<img src="./livedemoimages/1.png" width="450" style="margin-right: 10px;" />&nbsp;&nbsp; <img src="./livedemoimages/2.png" width="450" style="margin-right: 100px;" />
+<img src="./livedemoimages/1.png" width="300" style="margin-right: 10px;" />&nbsp;&nbsp; <img src="./livedemoimages/2.png" width="300" style="margin-right: 100px;" />
 
 
 ## Getting Started
