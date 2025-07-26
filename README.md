@@ -5,14 +5,13 @@ A beautiful todo application built with Flutter featuring modern Material 3 desi
 ## Features
 
 - ✅ Add, complete, and delete tasks
-- 🎨 Modern Material 3 design with dark/light theme
 - 📊 Visual progress tracking
 - 🏷️ Priority levels (High, Medium, Low)
 - 📱 Responsive design for all devices
 - ✨ Smooth animations and haptic feedback
 
 ## Screenshots
-<img src="./livedemoimages/1.png" width="300" style="margin-right: 10px;" />&nbsp;&nbsp; <img src="./livedemoimages/2.png" width="300" style="margin-right: 100px;" />
+<img src="./livedemoimages/1.png" width="230" style="margin-right: 10px;" />&nbsp;&nbsp; <img src="./livedemoimages/2.png" width="230" style="margin-right: 100px;" />&nbsp;&nbsp; <img src="./livedemoimages/3.png" width="230" style="margin-right: 100px;" />
 
 
 ## Getting Started
